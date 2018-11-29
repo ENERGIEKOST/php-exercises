@@ -3,6 +3,7 @@ function multiply($shit, $fuck) {
     return $shit * $fuck;
 }
 
+
 echo multiply (4, 4).'</br>';
 
 function custom($one, $two) {
